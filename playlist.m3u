@@ -1,0 +1,179 @@
+#EXTM3U
+#EXTINF:-1,Rai 1 Ⓖ
+https://raiuno1-live.akamaized.net/hls/live/598308/raiuno1/raiuno1/playlist_ma.m3u8?hdnea=st=1744209012~exp=1744209162~acl=/*~hmac=156880eeb870900be99bf12e8c580f872d0fc64aa2be55a7d2650d2e1cce5233
+#EXTINF:-1,Rai 2 Ⓖ
+https://streamcdnn2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raidue1/hls/playlist_ma.m3u8?baseuri=%2Fraidue1%2Fhls%2F&tstart=0&tend=1744209193&tof=86400&tk2=19e28ac4f9a3308275c4a47579e2dfa4dd7b54ded88c5bece76d02e477564663
+#EXTINF:-1,Rai 3 Ⓖ
+https://streamcdnn2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raitre1/hls/playlist_ma.m3u8?baseuri=%2Fraitre1%2Fhls%2F&tstart=0&tend=1744209193&tof=86400&tk2=7b9ffb63a147c7b4abe6e9d99c3d54f32da804230bb176a027e23ae89b4d54d2
+#EXTINF:-1,Rete 4 Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1,Canale 5 Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1,Italia 1 Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1,La7
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+#EXTINF:-1,TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1,Nove
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+#EXTINF:-1,20 Mediaset Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1,Rai 4 Ⓖ
+https://streamcdnn2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiquattro1/hls/playlist_ma.m3u8?baseuri=%2Fraiquattro1%2Fhls%2F&tstart=0&tend=1744209194&tof=86400&tk2=b88d7c180c11a51be4ebf27c35d275c0e0419ffc1c5c216d0cee796c72a9530b
+#EXTINF:-1,Iris Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1,Rai 5 Ⓖ
+https://streamcdnn2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raicinque1/hls/playlist_ma.m3u8?baseuri=%2Fraicinque1%2Fhls%2F&tstart=0&tend=1744209195&tof=86400&tk2=ed4f7e68c53aaf7377d25dbc8126d34eea873f51555e77b02dd0348e724bc0ed
+#EXTINF:-1,Rai Movie Ⓖ
+https://streamcdnn2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raimovie1/hls/playlist_ma.m3u8?baseuri=%2Fraimovie1%2Fhls%2F&tstart=0&tend=1744209195&tof=86400&tk2=59cff65f2795ef7468e993bf9cae2fc20d931fec8beb6f1f3d16e9203d3b32ca
+#EXTINF:-1,Rai Premium Ⓖ
+https://streamcdnn2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raipremium1/hls/playlist_ma.m3u8?baseuri=%2Fraipremium1%2Fhls%2F&tstart=0&tend=1744209196&tof=86400&tk2=0f5b7acd8c02ee88e51329471c44a1d7c2dd4af4878f30dac55c5906973f987f
+#EXTINF:-1,Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1,27 Twentyseven Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1,TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1,La7d
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
+#EXTINF:-1,La 5 Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1,Real Time
+https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8
+#EXTINF:-1,QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1,Food Network
+https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8
+#EXTINF:-1,Cine34   Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1,Focus Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1,RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8
+#EXTINF:-1,Warner TV
+https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8
+#EXTINF:-1,Giallo
+https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8
+#EXTINF:-1,Top Crime   Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+#EXTINF:-1,BOING   Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+#EXTINF:-1,K2
+https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8
+#EXTINF:-1,Rai Gulp Ⓖ
+https://raigulp1-live.akamaized.net/hls/live/598332/raigulp1/raigulp1/playlist_ma.m3u8?hdnea=st=1744209019~exp=1744209169~acl=/*~hmac=396210f1c7c39245b2d208f9b5ca3c8e28931ab892a8132c7082d1d21537fdd7
+#EXTINF:-1,Rai YoYo Ⓖ
+https://streamcdnn2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiyoyo1/hls/playlist_mo.m3u8?baseuri=%2Fraiyoyo1%2Fhls%2F&tstart=0&tend=1744209199&tof=86400&tk2=b3f0b7742365e8ed55ddbd7b3e512763bd1e8e32b61d8d6163ac78a04203c172
+#EXTINF:-1,Frisbee
+https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8
+#EXTINF:-1,Cartoonito Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+#EXTINF:-1,Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+#EXTINF:-1,Rai News 24 Ⓖ
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?hdnea=st=1744209020~exp=1744209170~acl=/*~hmac=51fe01a6f8e97ca0bcf41de9791bc8880672dcabef95994fec2d945e87035b4e
+#EXTINF:-1,Italia 2 Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1,Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+#EXTINF:-1,TGCOM 24 Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+#EXTINF:-1,DMAX
+https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8
+#EXTINF:-1,Rai Storia Ⓖ
+https://streamcdnn2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raistoria1/hls/playlist_mo.m3u8?baseuri=%2Fraistoria1%2Fhls%2F&tstart=0&tend=1744209201&tof=86400&tk2=f874d6bdaac7bfe37cae216e66e3a399357680f4c7aabc7db0e35967261a1185
+#EXTINF:-1,Mediaset Extra Ⓖ
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1,HGTV – Home & Garden Tv
+https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8
+#EXTINF:-1,Rai Scuola Ⓖ
+https://streamcdnn2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiscuola1/hls/playlist_mo.m3u8?baseuri=%2Fraiscuola1%2Fhls%2F&tstart=0&tend=1744209202&tof=86400&tk2=43d2d312fca2c8b33946a85f328231209e65b38b72ffaa142a0e1d4837331105
+#EXTINF:-1,Rai Sport Ⓖ
+https://streamcdnn2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raisportuno1/hls/playlist_mo.m3u8?baseuri=%2Fraisportuno1%2Fhls%2F&tstart=0&tend=1744209202&tof=86400&tk2=2dbd04a8653a15074d0704b11b2943fc0dc9f1b6d51aad4fde42547a66dd89d4
+#EXTINF:-1,Motor Trend
+https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8
+#EXTINF:-1,Sportitalia Plus
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1,SuperTennis
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8
+#EXTINF:-1,Radio 105 TV Ⓖ
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#EXTINF:-1,R101 TV Ⓖ
+https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8
+#EXTINF:-1,Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1,RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1,Radio KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1,Rai Radio 2 Visual Radio
+https://streamcdnn2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rairadiodue1/hls/playlist_mo.m3u8?baseuri=%2Frairadiodue1%2Fhls%2F&tstart=0&tend=1744209220&tof=86400&tk2=d40c36fd377057e9ab16254ee7727088976635cad48b0384833396fb88b6ab99
+#EXTINF:-1,RadioFreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8
+#EXTINF:-1,RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1,Radio ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8
+#EXTINF:-1,Radio TV Serie A con RDS
+https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
+#EXTINF:-1,Sportitalia SOLOCALCIO
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1,BIKE Channel
+https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8
+#EXTINF:-1,Radio Montecarlo TV Ⓖ
+https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
+#EXTINF:-1,Virgin Radio TV Ⓖ
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+#EXTINF:-1,Senato TV
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1,Camera dei Deputati Ⓢ
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1,Rai 4K Ⓖ
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1,UniNettuno University TV Ⓖ
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1,111 Tv
+https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+#EXTINF:-1,12 Tv Parma
+https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
+#EXTINF:-1,4 You Tv
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:-1,AB Channel
+https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8
+#EXTINF:-1,Alpauno
+https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+#EXTINF:-1,Alto Adige Tv
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+#EXTINF:-1,Antenna 2 Bergamo
+https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+#EXTINF:-1,Antenna 3 Massa
+https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
+#EXTINF:-1,Antenna 3 Veneto Nord Est
+https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8
+#EXTINF:-1,Le Cronache Lucane Tv
+http://stucazz.com:8888/hls/cronache.m3u8
+#EXTINF:-1,Lira Tv
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+#EXTINF:-1,Lombardia Tv
+https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
+#EXTINF:-1,Made in BO
+https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+#EXTINF:-1,Maria Vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
+#EXTINF:-1,Mediterranea Tv
+https://stream1.aswifi.it/mediterraneatv/live/index.m3u8
+#EXTINF:-1,Medjugorje Italia Tv
+https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
+#EXTINF:-1,Minformo Tv
+https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8
+#EXTINF:-1,NTI Canale 271
+https://www.ntimedia.it/video/S0B/S0B_master.m3u8
+#EXTINF:-1,Nuova TV Nazionale
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+#EXTINF:-1,Nuova Tv 1
+https://nuovatv.net:8443/tv/stream.m3u8
+#EXTINF:-1,Nuvola Tv
+https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
+#EXTINF:-1,Tele Ischia
+https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8

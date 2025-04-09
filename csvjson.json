@@ -1,0 +1,410 @@
+[
+  {
+    "name": "Rai 1 Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Rai 2 Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Rai 3 Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Rete 4 Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8"
+  },
+  {
+    "name": "Canale 5 Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8"
+  },
+  {
+    "name": "Italia 1 Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8"
+  },
+  {
+    "name": "La7",
+    "url": "https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8"
+  },
+  {
+    "name": "TV8",
+    "url": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d"
+  },
+  {
+    "name": "Nove",
+    "url": "https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8"
+  },
+  {
+    "name": "20 Mediaset Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8"
+  },
+  {
+    "name": "Rai 4 Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Iris Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8"
+  },
+  {
+    "name": "Rai 5 Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Rai Movie Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Rai Premium Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Cielo",
+    "url": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d"
+  },
+  {
+    "name": "27 Twentyseven Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8"
+  },
+  {
+    "name": "TV 2000",
+    "url": "https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8"
+  },
+  {
+    "name": "La7d",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8"
+  },
+  {
+    "name": "La 5 Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8"
+  },
+  {
+    "name": "Real Time",
+    "url": "https://amg16146-wbdi-amg16146c2-samsung-it-1835.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-realtime-samsungit/playlist.m3u8"
+  },
+  {
+    "name": "QVC",
+    "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8"
+  },
+  {
+    "name": "Food Network",
+    "url": "https://amg16146-wbdi-amg16146c3-samsung-it-1836.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-foodnetwork-samsungit/playlist.m3u8"
+  },
+  {
+    "name": "Cine34   Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8"
+  },
+  {
+    "name": "Focus Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8"
+  },
+  {
+    "name": "RTL 102.5",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist.m3u8"
+  },
+  {
+    "name": "Warner TV",
+    "url": "https://amg16146-wbdi-amg16146c4-samsung-it-1837.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-warnertv-samsungit/playlist.m3u8"
+  },
+  {
+    "name": "Giallo",
+    "url": "https://amg16146-wbdi-amg16146c5-samsung-it-1838.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-giallo-samsungit/playlist.m3u8"
+  },
+  {
+    "name": "Top Crime   Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8"
+  },
+  {
+    "name": "BOING   Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8"
+  },
+  {
+    "name": "K2",
+    "url": "https://amg16146-wbdi-amg16146c6-samsung-it-1839.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-k2-samsungit/playlist.m3u8"
+  },
+  {
+    "name": "Rai Gulp Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Rai YoYo Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Frisbee",
+    "url": "https://amg16146-wbdi-amg16146c7-samsung-it-1840.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-frisbee-samsungit/playlist.m3u8"
+  },
+  {
+    "name": "Cartoonito Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8"
+  },
+  {
+    "name": "Super!",
+    "url": "https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8"
+  },
+  {
+    "name": "Rai News 24 Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Italia 2 Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8"
+  },
+  {
+    "name": "Sky TG24",
+    "url": "https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d"
+  },
+  {
+    "name": "TGCOM 24 Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8"
+  },
+  {
+    "name": "DMAX",
+    "url": "https://amg16146-wbdi-amg16146c8-samsung-it-1841.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-dmax-samsungit/playlist.m3u8"
+  },
+  {
+    "name": "Rai Storia Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Mediaset Extra Ⓖ",
+    "url": "https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8"
+  },
+  {
+    "name": "HGTV – Home & Garden Tv",
+    "url": "https://amg16146-wbdi-amg16146c9-samsung-it-1842.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-hgtv-samsungit/playlist.m3u8"
+  },
+  {
+    "name": "Rai Scuola Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Rai Sport Ⓖ",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "Motor Trend",
+    "url": "https://amg16146-wbdi-amg16146c10-samsung-it-1843.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-motortrend-samsungit/playlist.m3u8"
+  },
+  {
+    "name": "Sportitalia Plus",
+    "url": "https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8"
+  },
+  {
+    "name": "Travel TV",
+    "url": "https://traveltv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8"
+  },
+  {
+    "name": "Donna TV Ⓢ",
+    "url": "https://donnatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8"
+  },
+  {
+    "name": "SuperTennis",
+    "url": "https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/h24_supertennix/manifest.m3u8"
+  },
+  {
+    "name": "Alma TV",
+    "url": "https://almatv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8"
+  },
+  {
+    "name": "Radio 105 TV Ⓖ",
+    "url": "https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8"
+  },
+  {
+    "name": "R101 TV Ⓖ",
+    "url": "https://live02-seg.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/index.m3u8"
+  },
+  {
+    "name": "Deejay TV",
+    "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8"
+  },
+  {
+    "name": "RadioItaliaTV",
+    "url": "https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8"
+  },
+  {
+    "name": "Radio KISS KISS TV",
+    "url": "https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8"
+  },
+  {
+    "name": "Rai Radio 2 Visual Radio",
+    "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5"
+  },
+  {
+    "name": "RadioFreccia",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist.m3u8"
+  },
+  {
+    "name": "RDS Social TV",
+    "url": "https://stream.rdstv.radio/index.m3u8"
+  },
+  {
+    "name": "Radio ZETA",
+    "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist.m3u8"
+  },
+  {
+    "name": "Radio TV Serie A con RDS",
+    "url": "https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8"
+  },
+  {
+    "name": "Gold TV Sat",
+    "url": "https://goldsattv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8"
+  },
+  {
+    "name": "Sportitalia SOLOCALCIO",
+    "url": "https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8"
+  },
+  {
+    "name": "BIKE Channel",
+    "url": "https://stream.prod-01.milano.nxmedge.net/argocdn/bikechannel/video.m3u8"
+  },
+  {
+    "name": "Radio Montecarlo TV Ⓖ",
+    "url": "https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8"
+  },
+  {
+    "name": "Virgin Radio TV Ⓖ",
+    "url": "https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8"
+  },
+  {
+    "name": "Senato TV",
+    "url": "https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8"
+  },
+  {
+    "name": "Camera dei Deputati Ⓢ",
+    "url": "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8"
+  },
+  {
+    "name": "Rai 4K Ⓖ",
+    "url": "https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8"
+  },
+  {
+    "name": "UniNettuno University TV Ⓖ",
+    "url": "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8"
+  },
+  {
+    "name": "111 Tv",
+    "url": "https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8"
+  },
+  {
+    "name": "12 Tv Parma",
+    "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8"
+  },
+  {
+    "name": "4 You Tv",
+    "url": "https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8"
+  },
+  {
+    "name": "Abc Tv",
+    "url": "https://diretta.arcapuglia.it:8080/live/abctv/index.m3u8"
+  },
+  {
+    "name": "AB Channel",
+    "url": "https://tsw.streamingwebtv24.it:1936/abchanneltv/abchanneltv/playlist.m3u8"
+  },
+  {
+    "name": "Alpauno",
+    "url": "https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8"
+  },
+  {
+    "name": "Alto Adige Tv",
+    "url": "https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Antenna 2 Bergamo",
+    "url": "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8"
+  },
+  {
+    "name": "Antenna 3 Massa",
+    "url": "https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8"
+  },
+  {
+    "name": "Antenna 3 Veneto Nord Est",
+    "url": "https://59d7d6f47d7fc.streamlock.net/antennatreveneto/antennatreveneto.stream/playlist.m3u8"
+  },
+  {
+    "name": "Lazio Tv",
+    "url": "https://laziotv.grupposciscione.knoxstreaming.com/live/masterpl.m3u8"
+  },
+  {
+    "name": "Le Cronache Lucane Tv",
+    "url": "http://stucazz.com:8888/hls/cronache.m3u8"
+  },
+  {
+    "name": "Lira Tv",
+    "url": "https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8"
+  },
+  {
+    "name": "Lombardia Tv",
+    "url": "https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8"
+  },
+  {
+    "name": "Love in Venice",
+    "url": "http://59d7d6f47d7fc.streamlock.net/loveinvenice/loveinvenice/playlist.m3u8"
+  },
+  {
+    "name": "Lucania Tv",
+    "url": "https://cdn15.streamshow.it/cloud-lucaniatv/lucaniatv/playlist.m3u8"
+  },
+  {
+    "name": "Made in BO",
+    "url": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8"
+  },
+  {
+    "name": "Maria Vision",
+    "url": "https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8"
+  },
+  {
+    "name": "Matrix Tv",
+    "url": "https://5f22d76e220e1.streamlock.net/GrandeItalia/GrandeItalia/playlist.m3u8"
+  },
+  {
+    "name": "Mediterranea Tv",
+    "url": "https://stream1.aswifi.it/mediterraneatv/live/index.m3u8"
+  },
+  {
+    "name": "Medjugorje Italia Tv",
+    "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8"
+  },
+  {
+    "name": "Medjugorje Tv Puglia",
+    "url": "https://diretta.arcapuglia.it:8080/live/medjugorietv/index.m3u8"
+  },
+  {
+    "name": "Minformo Tv",
+    "url": "https://5db313b643fd8.streamlock.net:443/MinformoTV/MinformoTV/playlist.m3u8"
+  },
+  {
+    "name": "Motori Tv",
+    "url": "https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8"
+  },
+  {
+    "name": "NTI Canale 271",
+    "url": "https://www.ntimedia.it/video/S0B/S0B_master.m3u8"
+  },
+  {
+    "name": "News24 City",
+    "url": "https://dc3.telesveva.com:4433/news24.mp4"
+  },
+  {
+    "name": "Nuova TV Nazionale",
+    "url": "https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8"
+  },
+  {
+    "name": "Nuova Tv 1",
+    "url": "https://nuovatv.net:8443/tv/stream.m3u8"
+  },
+  {
+    "name": "Nuova Tv 2",
+    "url": "https://nuovatv.net:8443/tv2/stream.m3u8"
+  },
+  {
+    "name": "Nuvola Tv",
+    "url": "https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8"
+  },
+  {
+    "name": "Tele Ischia",
+    "url": "https://rst.saiuzwebnetwork.it:8081/teleischia/index.m3u8"
+  }
+]
