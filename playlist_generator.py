@@ -1,22 +1,20 @@
 import time
 import requests
-import os
 import threading
 import json
 from datetime import datetime
-from flask import Flask, Response
+from flask import Response
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from waitress import serve
 
-app = Flask(__name__)
+# Cache globale della playlist
 playlist_cache = "#EXTM3U\n"
 lock = threading.Lock()
 executor = ThreadPoolExecutor(max_workers=10)
 
 # Configurazione
-UPDATE_INTERVAL = 120
-REQUEST_TIMEOUT = 5
-RAI_USER_AGENT = 'rainet/4.0.5'
+UPDATE_INTERVAL = 120  # secondi tra un aggiornamento e l'altro
+REQUEST_TIMEOUT = 5    # timeout delle richieste
+RAI_USER_AGENT = 'rainet/4.0.5'  # user-agent per i link RAI
 
 def resolve_rai_link(url):
     try:
@@ -53,44 +51,34 @@ def check_channel(channel):
 
 def update_playlist():
     global playlist_cache
-    
+
     try:
         with open('csvjson.json', 'r', encoding='utf-8') as f:
             channels = json.load(f)
+        print(f"[DEBUG] Canali caricati: {len(channels)}")
     except (IOError, json.JSONDecodeError) as e:
         print(f"[!] Errore caricamento file JSON: {str(e)}")
         return
 
     lines = ['#EXTM3U']
     futures = [executor.submit(check_channel, ch) for ch in channels]
-    
+
     for future in as_completed(futures):
         if (result := future.result()):
             lines.append(result)
 
     with lock:
         playlist_cache = '\n'.join(lines)
-    
+
     print(f"[✓] Playlist aggiornata - {datetime.now().strftime('%H:%M:%S')}")
 
-def start_background_updater():
-    """Avvia il thread di aggiornamento in background"""
-    updater = threading.Thread(target=update_playlist_loop, daemon=True)
-    updater.start()
-
 def update_playlist_loop():
-    """Loop infinito per aggiornare la playlist"""
     while True:
         update_playlist()
         time.sleep(UPDATE_INTERVAL)
 
-@app.route('/playlist.m3u')
-def serve_playlist():
-    with lock:
-        return Response(playlist_cache, mimetype='audio/x-mpegurl')
-
-if __name__ == '__main__':
-    update_playlist()  # <-- AGGIORNA SUBITO ALL'AVVIO
-    start_background_updater()
-    port = int(os.environ.get('PORT', 5000))
-    serve(app, host='0.0.0.0', port=port)
+def start_background_updater():
+    print(f"[✓] Avvio background updater - {datetime.now().isoformat()}")
+    update_playlist()  # Aggiorna subito all'avvio
+    updater = threading.Thread(target=update_playlist_loop, daemon=True)
+    updater.start()
