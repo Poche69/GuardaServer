@@ -90,6 +90,7 @@ def serve_playlist():
         return Response(playlist_cache, mimetype='audio/x-mpegurl')
 
 if __name__ == '__main__':
+    update_playlist()  # <-- AGGIORNA SUBITO ALL'AVVIO
     start_background_updater()
-    port = int(os.environ.get('PORT', 5000))  # Usa la porta impostata da Render
+    port = int(os.environ.get('PORT', 5000))
     serve(app, host='0.0.0.0', port=port)
