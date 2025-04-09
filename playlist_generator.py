@@ -72,7 +72,13 @@ def update_playlist():
     
     print(f"[✓] Playlist aggiornata - {datetime.now().strftime('%H:%M:%S')}")
 
+def start_background_updater():
+    """Avvia il thread di aggiornamento in background"""
+    updater = threading.Thread(target=update_playlist_loop, daemon=True)
+    updater.start()
+
 def update_playlist_loop():
+    """Loop infinito per aggiornare la playlist"""
     while True:
         update_playlist()
         time.sleep(UPDATE_INTERVAL)
@@ -83,5 +89,5 @@ def serve_playlist():
         return Response(playlist_cache, mimetype='audio/x-mpegurl')
 
 if __name__ == '__main__':
-    threading.Thread(target=update_playlist_loop, daemon=True).start()
+    start_background_updater()
     serve(app, host='0.0.0.0', port=10000)
